@@ -1,5 +1,5 @@
 {
-	"topic": "Instllation / Setup"
+	"topic": "Installation / Setup"
 }
 
 Setting up a new instance of CCF2 can be done in just command. Or with other words with composer.
